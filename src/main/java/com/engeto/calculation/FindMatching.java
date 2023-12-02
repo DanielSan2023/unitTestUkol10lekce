@@ -1,2 +1,4 @@
-package com.engeto.calculation;public class FindMatching {
+package com.engeto.calculation;
+
+public class FindMatching {
 }
